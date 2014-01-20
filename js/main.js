@@ -1,8 +1,7 @@
 
-
 //EDIT THESE LINES
 //Title of the blog
-var TITLE = "Info Linux Ramayana";
+var TITLE = "OMG Ramayana!";
 //RSS url
 var RSS = "http://linuxramayana.wordpress.com/feed/";
 //Stores entries
